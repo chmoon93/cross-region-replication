@@ -1,0 +1,1 @@
+# This is a module to replicate image repositories from source registry
